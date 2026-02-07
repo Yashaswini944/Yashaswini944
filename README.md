@@ -44,5 +44,5 @@ My goal is to create AI systems that are clean, scalable, and impactful.
 ---
 
 ## 📫 Connect With Me
-LinkedIn: linkedin.com/in/Yashaswini
+LinkedIn: www.linkedin.com/in/yashaswini-halepalya-ravikumar-211488226
 
