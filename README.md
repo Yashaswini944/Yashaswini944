@@ -1,8 +1,8 @@
-# Hi, I'm Yashaswini 👋
+### Hi, I'm Yashaswini 👋
 
-Machine Learning Engineer passionate about building intelligent systems that solve real-world problems.  
-I love working with deep learning, LLMs, RAG pipelines, and end-to-end ML engineering.  
-My goal is to create AI systems that are clean, scalable, and impactful.
+Machine Learning Engineer | Building Intelligent, Scalable, Real‑World AI Systems
+I’m passionate about creating ML solutions that actually work in production — clean, scalable, and impactful.
+I enjoy working across the full ML lifecycle: data → model → API → deployment.
 
 ---
 
@@ -22,22 +22,12 @@ My goal is to create AI systems that are clean, scalable, and impactful.
 **Tools:** Git, Jupyter, VS Code, Colab  
 **Other:** Data Structures & Algorithms, Model Optimization
 
----
 
-## 📂 Featured Projects
-*(Projects will appear here once you build and pin them)*  
-- End-to-End ML Pipeline  
-- Deep Learning Model (CNN/LSTM)  
-- LLM Mini Project  
-- RAG Pipeline  
-- FastAPI ML Deployment  
-
----
 
 ## 🗺️ 2025 Project Roadmap
-- Build 5 ML projects  
-- Build 2 LLM/RAG systems  
-- Deploy 3 ML APIs  
+- Build  ML projects  
+- Build LLM/RAG systems  
+- Deploy ML APIs  
 - Contribute to open-source  
 - Learn Docker & CI/CD  
 
