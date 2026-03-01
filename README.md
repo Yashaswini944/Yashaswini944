@@ -95,6 +95,19 @@ Work on projects that combine ML, backend engineering, and system design
 
 ---
 
+### 🎯 Career Objective 
+I’m actively seeking a Machine Learning Engineer or AI Engineer role where I can apply my skills in building real‑world ML systems. I bring strong hands‑on experience across the full ML lifecycle — from data and modeling to backend integration and deployment — and I’m confident in my ability to contribute to teams that value clean engineering, scalable design, and practical AI solutions.
+
+I’m looking for opportunities where I can:
+
+Build and deploy ML/AI systems end‑to‑end
+
+Work with modern deep learning and LLM‑based architectures
+
+Contribute to intelligent applications that solve real problems
+
+Grow as an engineer while delivering meaningful impact
+
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/yashaswini-halepalya-ravikumar-211488226
 
