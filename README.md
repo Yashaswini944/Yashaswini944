@@ -1,6 +1,6 @@
 ### 👩‍💻 Full-Stack Developer
 
-I'm a Full-Stack Developer focused on building scalable, responsive, and user-friendly web applications.
+Hi, I am Yashaswini. I am  an MS Computer Science graduate focused on .NET and full-stack software engineering. I build web applications using C#, ASP.NET Core, React/Angular, REST APIs, and SQL. I am  currently strengthening my projects with automated testing, Docker, CI/CD, security, and cloud deployment.
 
 ### 🎨 Frontend
 
